@@ -32,6 +32,14 @@ Clean the data including:
     - convert close price to a float  
     - remove duplicates  
     - remove empty cells  
+<<<<<<< HEAD
 Generate summary statistics for each file
 Review delta between markets as seen below:
-!['chart 1']
+
+=======
+Generate summary statistics for each file  
+Review delta between markets as seen below:  
+![bitstamp_vs_coinbase](https://user-images.githubusercontent.com/105887423/174191335-37f91ac1-aaab-4f3e-bbb3-ed981f654243.png)
+
+Analyze data from 3 specific dates including:  
+
