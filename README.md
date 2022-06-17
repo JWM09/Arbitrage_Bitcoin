@@ -26,3 +26,12 @@ Primary data used from each file was the Timestamp & Close data columns
 -------------
   
 ## Actions Taken  
+
+Import data from supplied csv files  
+Clean the data including:  
+    - convert close price to a float  
+    - remove duplicates  
+    - remove empty cells  
+Generate summary statistics for each file
+Review delta between markets as seen below:
+!['chart 1']
